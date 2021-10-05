@@ -145,6 +145,7 @@
     <ClCompile Include="maze_solver.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="CODE_OF_CONDUCT.md" />
     <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
