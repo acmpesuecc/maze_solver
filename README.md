@@ -1,4 +1,4 @@
-# Maze Solver
+# Maze Solver(ACCEPTS FIRST 5 PR'S DURING BOOST)
 This is a maze solver application written in C++. 
 
 ## Why?
